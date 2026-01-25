@@ -1,0 +1,19 @@
+[package]
+name = "std2"
+version = "0.1.0"
+edition = "2024"
+
+description = "\"minimal std is a feature\" - a coping rust shill."
+keywords = ["std", "extension", "utilities"]
+categories = ["no-std", "no-std::no-alloc", "rust-patterns"]
+license = "GPL-3.0-only"
+repository = "https://github.com/ZenPZero/std2"
+
+include = [".cargo/", "src/", "README.md", "CHANGELOG.md", "LICENSE"]
+
+[features]
+default = []
+
+Mmacros = []
+
+std = []
