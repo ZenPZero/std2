@@ -12,7 +12,7 @@
 ## Installation
 
 ```shell
-cargo add std2@=0.1.1
+cargo add std2@=0.2.1
 ```
 
 or
@@ -21,12 +21,12 @@ or
 
 ```toml
 [dependencies]
-std2 = "=0.1.1"
+std2 = "=0.2.1"
 ```
 
 or
 
 ```toml
 [dependencies.std2]
-version = "=0.1.1"
+version = "=0.2.1"
 ```

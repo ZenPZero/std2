@@ -1,3 +1,7 @@
+# 0.2.1 (Feb 18 2026)
+
+- Updated version in readme
+
 # 0.2.0 (Feb 18 2026)
 
 - Added `unwrap!` macro

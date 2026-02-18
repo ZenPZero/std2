@@ -1,6 +1,6 @@
 [package]
 name = "std2"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2024"
 
 description = "\"minimal std is a feature\" - a coping rust shill."
